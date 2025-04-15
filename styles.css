@@ -1,0 +1,98 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  transition: background-color 0.3s, color 0.3s;
+}
+.navbar, .card {
+  background-color: #1e1e1e;
+}
+.nav-link, .navbar-brand {
+  color: #ffffff !important;
+}
+.nav-link:hover {
+  color: #0dcaf0 !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+/* Skills */
+.skill-tag {
+  background-color: #1e1e1e;
+  color: #0dcaf0;
+  border: 1px solid #0dcaf0;
+  padding: 8px 12px;
+  margin: 5px 5px 5px 0;
+  border-radius: 20px;
+  display: inline-block;
+}
+
+/* Experience */
+#experienceSection h4 {
+  margin-bottom: 0.25rem;
+  font-size: 1.3rem;
+  color: #0dcaf0;
+}
+
+#experienceSection h5 {
+  font-weight: 500;
+  margin-bottom: 0.1rem;
+  color: #b0b0b0;
+}
+
+#experienceSection small {
+  color: #aaaaaa;
+  font-size: 0.95rem;
+}
+
+#experienceSection ul {
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+#experienceSection li {
+  margin-bottom: 6px;
+  line-height: 1.6;
+}
+
+.company-name {
+  color: #444444; /* dark gray */
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+body.light-theme .company-name {
+  color: #222222;
+}
+
+
+.contact-info {
+  background-color: #1e1e1e;
+  border-left: 4px solid #0dcaf0;
+}
+
+.contact-info a {
+  color: #0dcaf0;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.8s ease-out forwards;
+  animation-delay: 0.2s;
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+

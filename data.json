@@ -1,0 +1,164 @@
+{
+  "about": {
+    "name": "Saisundersripad Sreeperumbuduruthasanambi",
+    "role": "Front-End Developer | UX Designer",
+    "bio": "Experienced Front-End Developer with over 5 years of experience building high-performance web applications using Angular, JavaScript, HTML5, CSS3, and modern frameworks. Strong in optimizing UI performance, integrating REST APIs, and delivering responsive, scalable design in Agile environments. Skilled in debugging, CI/CD pipelines, and collaborating across teams to deliver robust, user-centered solutions.",
+    "experience": [
+      {
+        "company": "University of Massachusetts Dartmouth",
+        "role": "Tutor / Grader (Graduate Assistant)",
+        "duration": "Sep 2022 – May 2024",
+        "points": [
+          "Assisted in teaching and grading for courses including User Interface & Design Techniques, Database Design, and Software Engineering.",
+          "Provided academic support and mentoring to undergraduate students on UI/UX concepts, database queries, and project architecture.",
+          "Evaluated student assignments, projects, and documentation to ensure technical accuracy and completeness.",
+          "Held office hours to guide students through debugging, frontend logic, and design improvements.",
+          "Contributed to improving course content with real-world use case examples and hands-on project insights."
+        ]
+      },      
+      {
+        "company": "Cognizant",
+        "role": "Associate (Angular Developer)",
+        "duration": "Nov 2020 – May 2022",
+        "points": [
+          "Designed and implemented dynamic user interfaces for web applications using Angular, HTML5, CSS3, and JavaScript.",
+          "Developed reusable, modular, and maintainable code for the front-end web application with Angular.",
+          "Integrated front-end application with back-end services by connecting APIs using Angular’s HTTP client and RESTful services.",
+          "Collaborated with the back-end development team to integrate Node.js and ASP.NET Core Web APIs into the front-end application.",
+          "Ensured the optimal functionality and performance of the application by utilizing best practices for Angular development, including lazy loading, components, and services.",
+          "Participated in the creation of the user interface architecture for scalable and maintainable Angular applications.",
+          "Employed Angular CLI for efficient project development, building, and testing.",
+          "Worked on integrating Azure DevOps pipeline for continuous integration and continuous deployment (CI/CD) to streamline development cycles and improve code quality.",
+          "Assisted the team in deploying and maintaining cloud-based applications using Microsoft Azure, ensuring smooth interaction between the front-end and cloud infrastructure.",
+          "Wrote unit tests and performed integration testing using Jasmine and Karma to ensure code quality and functionality.",
+          "Implemented state management in Angular using NgRx to handle complex application states and improve performance.",
+          "Optimized Angular applications for better load times, memory management, and performance across various devices and browsers.",
+          "Contributed to sprint planning, grooming, and estimation for the feature development and enhancements based on business and technical requirements.",
+          "Collaborated with cross-functional teams (Business Analysts, Product Managers) to define and clarify user stories, ensuring alignment with project goals.",
+          "Involved in debugging and troubleshooting issues in the Angular application and worked with the team to resolve defects.",
+          "Assisted in the integration of third-party libraries, including UI components and services, to enhance application functionality.",
+          "Designed responsive web pages that provide a smooth user experience across all devices, ensuring accessibility and cross-browser compatibility.",
+          "Developed and consumed RESTful APIs in Angular to fetch and display data from back-end systems, ensuring smooth data flow between client and server.",
+          "Participated in daily stand-ups and sprint retrospectives to communicate progress, challenges, and gather feedback from the team.",
+          "Assisted in enhancing the performance of the web application by implementing caching strategies and optimizing code.",
+          "Worked in an Agile (SCRUM) environment, following best practices to meet project deadlines and deliver user stories in each sprint.",
+          "Created Angular components, directives, and pipes to build reusable elements across different application views.",
+          "Worked with JSON and other data formats to parse and display data from APIs in the front-end application.",
+          "Collaborated with the UI/UX team to ensure the design and user interface were aligned with project specifications and user needs.",
+          "Maintained documentation for the front-end codebase and Angular components for future reference and easier collaboration within the team."
+        ]
+      },
+      {
+        "company": "Cognizant",
+        "role": "Programmer Analyst (.NET & AngularJS Developer)",
+        "duration": "Nov 2018 – Oct 2020",
+        "points": [
+          "Developed and maintained web applications using C#, ASP.NET, and JavaScript to meet business and client needs.",
+          "Built RESTful APIs with ASP.NET Core to handle data processing and communication between the front-end and back-end systems.",
+          "Worked with front-end technologies like HTML5, CSS3, and JavaScript to create responsive and user-friendly web pages.",
+          "Integrated C# back-end logic with JavaScript front-end code to ensure seamless user experience and functionality.",
+          "Wrote and optimized SQL queries and stored procedures to interact with databases (SQL Server) for dynamic data retrieval.",
+          "Utilized JavaScript frameworks (jQuery, AngularJS) for enhanced interactivity and dynamic web features.",
+          "Assisted in the design, implementation, and maintenance of web-based solutions using ASP.NET and C#.",
+          "Participated in the full software development lifecycle (SDLC), including analysis, design, development, testing, and deployment.",
+          "Integrated third-party libraries and APIs to enhance functionality and performance of the web application.",
+          "Debugged and resolved application issues in collaboration with the development team to ensure seamless deployment.",
+          "Worked closely with the QA team to ensure code quality, perform functional testing, and fix bugs before deployment.",
+          "Implemented cross-browser compatible solutions and ensured consistent user experience across different platforms.",
+          "Collaborated with front-end developers to create and maintain dynamic, mobile-responsive user interfaces.",
+          "Assisted in version control using Git for managing the codebase and collaborating with other team members.",
+          "Optimized application performance by applying best practices for web and back-end development.",
+          "Involved in writing unit tests for back-end code using NUnit and integration testing for front-end features.",
+          "Utilized MVC design patterns to organize and manage code structure for maintainability and scalability.",
+          "Participated in scrum meetings, sprint planning, and code reviews to ensure proper collaboration and adherence to timelines.",
+          "Worked with business analysts and product managers to define user stories, gather requirements, and implement new features.",
+          "Contributed to the documentation of the project, including front-end and back-end code, ensuring the team had clear and up-to-date information."
+        ]
+      },
+      {
+        "company": "Cognizant",
+        "role": "Programmer Analyst Trainee",
+        "duration": "Sep 2017 – Oct 2018",
+        "points": [
+          "Created and maintained web applications using C#, ASP.NET, JavaScript, HTML5, and CSS3 to meet business and client needs.",
+          "Developed RESTful APIs using ASP.NET Core to facilitate data communication between front-end and back-end systems.",
+          "Designed, wrote, and optimized SQL queries and stored procedures for efficient data retrieval in SQL Server.",
+          "Integrated C# back-end logic with JavaScript and jQuery to ensure smooth user experience and application performance.",
+          "Engaged in all phases of software development, including analysis, design, development, testing, and deployment.",
+          "Identified, troubleshot, and resolved software bugs, collaborating with QA teams to ensure high-quality applications.",
+          "Gained hands-on experience with C#, ASP.NET, ADO.NET, AngularJS, and SQL Server through training and internal projects."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "Frontend": [
+      "Angular",
+      "React",
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3",
+      "jQuery"
+    ],
+    "Backend Development": [
+      "C#",
+      "NodeJS",
+      "Express.js"
+    ],
+    "Database": [
+      "MS SQL Server",
+      "MySQL Workbench",
+      "MongoDB"
+    ],
+    ".NET Technologies": [
+      "ASP.NET Web Forms",
+      "ADO.NET",
+      "Entity Framework",
+      "Web API"
+    ],
+    "DevOps CI/CD": [
+      "GIT",
+      "Bitbucket",
+      "TeamCity"
+    ],
+    "UI/UX Design": [
+      "Adobe Illustrator",
+      "Photoshop",
+      "Adobe XD",
+      "Figma",
+      "Bootstrap",
+      "Tailwind CSS"
+    ],
+    "Miscellaneous": [
+      "Postman",
+      "Fiddler",
+      "JSON",
+      "XML",
+      "paper.js",
+      "Three.js",
+      "AWS",
+      "VS Code"
+    ],
+    "Methodologies": [
+      "Agile Scrum"
+    ]
+  },
+  "projects": [
+    {
+      "title": "FIXXPERT",
+      "description": "A full-stack mechanic booking platform built with React, Express.js, and MongoDB, designed to streamline vehicle service scheduling.",
+      "link": "https://github.com/saiclone/fixxpert"
+    },
+    {
+      "title": "MECHANIX",
+      "description": "A responsive web application that connects users with mechanics based on location and service type. Developed using React and MongoDB.",
+      "link": "https://github.com/saiclone/mechanix"
+    },
+    {
+      "title": "Skyview Adventures",
+      "description": "Travel website offering dynamic travel packages, service info, and image galleries. Built using HTML, CSS, JS, and Bootstrap.",
+      "link": "https://github.com/saiclone/skyview-adventures"
+    }
+  ]
+}
